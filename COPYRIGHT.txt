@@ -1,0 +1,7 @@
+DmasterCounter
+
+Copyright (c) 2026 Dominicus Daimon Pradana. All rights reserved.
+
+This software and its source code are proprietary. No part of this software may be copied, redistributed, modified, or used commercially without prior written permission from the copyright owner.
+
+The copyright notice does not replace any registration, recordation, or legal advice that may be appropriate for your jurisdiction.
